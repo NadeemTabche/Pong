@@ -1,6 +1,7 @@
 # import necessary modules
 import turtle as t
 import os
+
 #Color settings
 askuserPColor = str(input('Hi, please enter paddle color '))
 askuserTcolor = str(input('please enter text color '))
